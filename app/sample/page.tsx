@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import SampleSelector from "./components/SampleSelector";
+import SampleSelector from "./components/sampleSelector";
 import Uploader from "@/app/dashboard/components/uploader";
 
 const Sample = () => {
